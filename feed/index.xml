@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description></description>
-	<lastBuildDate>Tue, 02 Apr 2024 18:34:10 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 06 May 2024 10:58:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,133 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5.2</generator>
 	<item>
+		<title>Media Center</title>
+		<link>./../media-center/index.html</link>
+					<comments>./../media-center/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 10:52:08 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../index.html?p=273</guid>
+
+					<description><![CDATA[Services We create custom web design for small businesses, this will help you capture new audiences and increase your sales. [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="273" class="elementor elementor-273">
+				<div class="elementor-element elementor-element-1a02233 e-flex e-con-boxed e-con e-parent" data-id="1a02233" data-element_type="container" data-core-v316-plus="true">
+					<div class="e-con-inner">
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-6ighl1e e-flex e-con-boxed e-con e-parent" data-id="6ighl1e" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-0c73a23 e-con-full e-flex e-con e-child" data-id="0c73a23" data-element_type="container">
+				<div class="elementor-element elementor-element-e3ee3a0 elementor-widget elementor-widget-heading" data-id="e3ee3a0" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.20.0 - 26-03-2024 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h1 class="elementor-heading-title elementor-size-default">Services</h1>		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-9dfa891 e-flex e-con-boxed e-con e-parent" data-id="9dfa891" data-element_type="container" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-d9f36c1 elementor-widget elementor-widget-spacer" data-id="d9f36c1" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.20.0 - 26-03-2024 */
+.elementor-column .elementor-spacer-inner{height:var(--spacer-size)}.e-con{--container-widget-width:100%}.e-con-inner>.elementor-widget-spacer,.e-con>.elementor-widget-spacer{width:var(--container-widget-width,var(--spacer-size));--align-self:var(--container-widget-align-self,initial);--flex-shrink:0}.e-con-inner>.elementor-widget-spacer>.elementor-widget-container,.e-con>.elementor-widget-spacer>.elementor-widget-container{height:100%;width:100%}.e-con-inner>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer,.e-con>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer{height:100%}.e-con-inner>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer>.elementor-spacer-inner,.e-con>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer>.elementor-spacer-inner{height:var(--container-widget-height,var(--spacer-size))}.e-con-inner>.elementor-widget-spacer.elementor-widget-empty,.e-con>.elementor-widget-spacer.elementor-widget-empty{position:relative;min-height:22px;min-width:22px}.e-con-inner>.elementor-widget-spacer.elementor-widget-empty .elementor-widget-empty-icon,.e-con>.elementor-widget-spacer.elementor-widget-empty .elementor-widget-empty-icon{position:absolute;top:0;bottom:0;left:0;right:0;margin:auto;padding:0;width:22px;height:22px}</style>		<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-c3312db elementor-widget elementor-widget-text-editor" data-id="c3312db" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.20.0 - 26-03-2024 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>We create custom web design for small businesses, this will help you capture new audiences and increase your sales. Contact us by calling, emailing or filling out our form. You will receive a free quote by email within 24 hours.</p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-ap2zlwp e-flex e-con-boxed e-con e-parent" data-id="ap2zlwp" data-element_type="container" data-core-v316-plus="true">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-56a4564 e-con-full e-flex e-con e-child" data-id="56a4564" data-element_type="container">
+				<div class="elementor-element elementor-element-50d6336 elementor-widget elementor-widget-heading" data-id="50d6336" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Press Releases</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-9308ff2 elementor-widget elementor-widget-text-editor" data-id="9308ff2" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Stay informed with our latest announcements, product launches, and company milestones through our Press Releases section. This is your direct line to the newest developments and achievements at Kotha Apps &amp; Technologies Ltd., providing journalists, bloggers, and the media with timely, relevant information.</p>						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-dffccf7 e-con-full e-flex e-con e-child" data-id="dffccf7" data-element_type="container">
+				<div class="elementor-element elementor-element-a48b651 elementor-widget elementor-widget-image" data-id="a48b651" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.20.0 - 26-03-2024 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>										<img fetchpriority="high" decoding="async" width="1024" height="811" src="./../wp-content/uploads/2024/05/Web-Design.jpg" class="attachment-large size-large wp-image-254" alt="" />													</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-bwgh4qk e-flex e-con-boxed e-con e-parent" data-id="bwgh4qk" data-element_type="container" data-core-v316-plus="true">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-6880e43 e-con-full e-flex e-con e-child" data-id="6880e43" data-element_type="container">
+				<div class="elementor-element elementor-element-f51149a elementor-widget elementor-widget-image" data-id="f51149a" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img decoding="async" width="1024" height="806" src="./../wp-content/uploads/2024/05/Graphic-Design.jpg" class="attachment-large size-large wp-image-255" alt="" />													</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-1d599f0 e-con-full e-flex e-con e-child" data-id="1d599f0" data-element_type="container">
+				<div class="elementor-element elementor-element-8f2af4c elementor-widget elementor-widget-heading" data-id="8f2af4c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Media Kit</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0701632 elementor-widget elementor-widget-text-editor" data-id="0701632" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Our Media Kit is designed to support your storytelling with comprehensive resources about Kotha Apps &amp; Technologies Ltd. It includes high-resolution logos, executive bios, product screenshots, and fact sheets, all curated to help you accurately represent our brand, mission, and the groundbreaking work we&#8217;re doing.</p>						</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-a1ukllr e-flex e-con-boxed e-con e-parent" data-id="a1ukllr" data-element_type="container" data-core-v316-plus="true">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-47189ec e-con-full e-flex e-con e-child" data-id="47189ec" data-element_type="container">
+				<div class="elementor-element elementor-element-638dd26 elementor-widget elementor-widget-heading" data-id="638dd26" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">In the News</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-d1d1e1e elementor-widget elementor-widget-text-editor" data-id="d1d1e1e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Discover how Kotha Apps &amp; Technologies Ltd. is being recognized in the media landscape. &#8220;In the News&#8221; features a curated collection of articles, interviews, and media appearances that highlight our contributions to the digital economy, the innovative features of our platforms, and our ongoing efforts to empower communities in Bangladesh and beyond.</p>						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-e0dacc0 e-con-full e-flex e-con e-child" data-id="e0dacc0" data-element_type="container">
+				<div class="elementor-element elementor-element-e56c3c6 elementor-widget elementor-widget-image" data-id="e56c3c6" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img decoding="async" width="1024" height="811" src="./../wp-content/uploads/2024/05/Content-Writing.jpg" class="attachment-large size-large wp-image-256" alt="" />													</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-px4w4ib e-flex e-con-boxed e-con e-parent" data-id="px4w4ib" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-db992c8 e-con-full e-flex e-con e-child" data-id="db992c8" data-element_type="container">
+				<div class="elementor-element elementor-element-08e276e elementor-widget elementor-widget-heading" data-id="08e276e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Contact</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-291d47f elementor-widget elementor-widget-text-editor" data-id="291d47f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>For further information, interview requests, or any other media inquiries, please reach out to our dedicated Media Relations team. We are committed to providing the support you need to feature Kotha Apps &amp; Technologies Ltd. in your next piece.</p><ul><li>Email us at <a href="mailto:media@kotha.tech">media@kotha.tech</a> for prompt assistance.</li></ul><p>At Kotha Apps &amp; Technologies Ltd., we are driven by a vision to connect and empower through technology. Our Media Center is designed to keep you informed and engaged with our progress. Thank you for your interest in our journey; we look forward to sharing our stories, achievements, and the impact we&#8217;re creating together.</p><p><!-- notionvc: d71387f8-bcff-4112-9301-7827cdc5ab03 --></p>						</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>./../media-center/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Home Page</title>
 		<link>./../home-page/index.html</link>
 					<comments>./../home-page/index.html#respond</comments>
@@ -35,8 +162,7 @@
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-252b5b9 elementor-widget elementor-widget-image" data-id="252b5b9" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.20.0 - 26-03-2024 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>										<img fetchpriority="high" decoding="async" width="1024" height="683" src="./../wp-content/uploads/2024/04/pexels-photo-1072179.jpeg" class="attachment-large size-large wp-image-45" alt="" />													</div>
+													<img loading="lazy" decoding="async" width="1024" height="683" src="./../wp-content/uploads/2024/04/pexels-photo-1072179.jpeg" class="attachment-large size-large wp-image-45" alt="" />													</div>
 				</div>
 					</div>
 				</div>
